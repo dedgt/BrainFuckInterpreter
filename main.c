@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <ctype.h>
 
-// Used to be 2-space indented, so some whitespace issues may remain.
+// Use to be 2-space indented, so some whitespace issues may remain.
 
 typedef struct Array {
     void* data;
