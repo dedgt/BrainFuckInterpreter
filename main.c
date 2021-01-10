@@ -127,7 +127,7 @@ int main(void) {
                 break;
             case '<':
                 if (data_index == 0) {
-                    data_index = MAX_INDEX;
+                    data_index = MAX_INDEX - 1;
                 } else {
                     --data_index;
                 }
